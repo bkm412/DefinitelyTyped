@@ -1,5 +1,5 @@
 {
-    "private": true,
+    "private": false,
     "dependencies": {
     "@types/react": "*",
     "csstype": "^2.2.0"
