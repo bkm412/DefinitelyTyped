@@ -1,6 +1,10 @@
 {
     "private": true,
     "dependencies": {
-        "csstype": "^2.2.0"
-    }
+    "@types/react": "*",
+    "csstype": "^2.2.0"
+    },
+    "peerDependencies": {
+      "@types/react-native": "*"
+    },
 }
